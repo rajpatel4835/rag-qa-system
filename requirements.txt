@@ -1,0 +1,15 @@
+langchain-pinecone
+langchain-openai
+langchain-text-splitters
+langchain
+langchain-huggingface
+sentence-transformers
+langchain-community
+python-docx
+PyPDF2
+nest_asyncio
+gradio
+pinecone-client 
+grpcio 
+googleapis-common-protos
+protoc_gen_openapiv2
