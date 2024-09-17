@@ -177,7 +177,7 @@ def main():
         description="Upload a PDF document and ask any questions to retrieve contextually relevant answers."
     )
     # Launch the interface
-    interface.launch(server_port=7860, debug=True)
+    interface.launch(server_name="0.0.0.0", server_port=7860, debug=True)
 
 
 
